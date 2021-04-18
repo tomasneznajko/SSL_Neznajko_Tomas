@@ -1,0 +1,1 @@
+El código permitirá mostrar en la consola el mensaje de "hola mundo" 
